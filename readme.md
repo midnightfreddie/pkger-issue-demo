@@ -1,0 +1,1 @@
+An example for <https://github.com/markbates/pkger/issues/44>
